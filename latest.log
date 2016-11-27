@@ -1,0 +1,89 @@
+[09:04:11] [Client thread/INFO]: Setting user: ccgfok
+[09:04:17] [Client thread/WARN]: Skipping bad option: lastServer:
+[09:04:17] [Client thread/INFO]: LWJGL Version: 2.9.4
+[09:04:29] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Advanced Hook Launchers, FMLFileResourcePack:Charge Pads, FMLFileResourcePack:Dynamic Lights, FMLFileResourcePack:Dynamic Lights Burning Entity Module, FMLFileResourcePack:Dynamic Lights Creeper Module, FMLFileResourcePack:Dynamic Lights EntityItem Module, FMLFileResourcePack:Dynamic Lights Entity Light Module, FMLFileResourcePack:Dynamic Lights Mob Equipment Light Module, FMLFileResourcePack:Dynamic Lights Fiery Arrows Light Module, FMLFileResourcePack:Dynamic Lights Flood Light, FMLFileResourcePack:Dynamic Lights OtherPlayers Light Module, FMLFileResourcePack:Dynamic Lights Player Light Module, FMLFileResourcePack:Extra Rails, FMLFileResourcePack:Flowercraft, FMLFileResourcePack:Forestry, FMLFileResourcePack:Forge Endertech, FMLFileResourcePack:Just Enough Items, FMLFileResourcePack:Just JetPacks, FMLFileResourcePack:Just Backpacks, FMLFileResourcePack:Just Enough Resources, FMLFileResourcePack:LimeLib, FMLFileResourcePack:Neat, FMLFileResourcePack:Railcraft, FMLFileResourcePack:RFTools, FMLFileResourcePack:ShadowMC, FMLFileResourcePack:Simply Jetpacks 2, FMLFileResourcePack:Steve's Carts 2, FMLFileResourcePack:ViesCraft
+[09:04:46] [Client thread/WARN]: File minecraft:sounds/gearswitch.ogg does not exist, cannot add it to event stevescarts:gearswitch
+[09:04:46] [Client thread/WARN]: File minecraft:sounds/win.ogg does not exist, cannot add it to event stevescarts:win
+[09:04:46] [Client thread/WARN]: File minecraft:sounds/boop1.ogg does not exist, cannot add it to event stevescarts:boop
+[09:04:46] [Client thread/WARN]: File minecraft:sounds/boop2.ogg does not exist, cannot add it to event stevescarts:boop
+[09:04:46] [Client thread/WARN]: File minecraft:sounds/boop3.ogg does not exist, cannot add it to event stevescarts:boop
+[09:04:46] [Client thread/WARN]: File minecraft:sounds/gameover.ogg does not exist, cannot add it to event stevescarts:gameover
+[09:04:46] [Client thread/WARN]: File minecraft:sounds/1lines.ogg does not exist, cannot add it to event stevescarts:1lines
+[09:04:46] [Client thread/WARN]: File minecraft:sounds/2lines.ogg does not exist, cannot add it to event stevescarts:2lines
+[09:04:46] [Client thread/WARN]: File minecraft:sounds/3lines.ogg does not exist, cannot add it to event stevescarts:3lines
+[09:04:46] [Client thread/WARN]: File minecraft:sounds/4lines.ogg does not exist, cannot add it to event stevescarts:4lines
+[09:04:46] [Client thread/WARN]: File minecraft:sounds/highscore.ogg does not exist, cannot add it to event stevescarts:highscore
+[09:04:46] [Client thread/WARN]: File minecraft:sounds/hit.ogg does not exist, cannot add it to event stevescarts:hit
+[09:04:46] [Client thread/WARN]: File minecraft:sounds/click.ogg does not exist, cannot add it to event stevescarts:click
+[09:04:46] [Client thread/WARN]: File minecraft:sounds/blobclick.ogg does not exist, cannot add it to event stevescarts:blobclick
+[09:04:46] [Client thread/WARN]: File minecraft:sounds/flagclick.ogg does not exist, cannot add it to event stevescarts:flagclick
+[09:04:46] [Client thread/WARN]: File minecraft:sounds/goodjob.ogg does not exist, cannot add it to event stevescarts:goodjob
+[09:04:46] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[09:04:46] [Thread-6/INFO]: Initializing LWJGL OpenAL
+[09:04:46] [Thread-6/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[09:04:46] [Thread-6/INFO]: OpenAL initialized.
+[09:04:47] [Sound Library Loader/INFO]: Sound engine started
+[09:04:50] [Client thread/INFO]: Created: 16x16 textures-atlas
+[09:05:04] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Advanced Hook Launchers, FMLFileResourcePack:Charge Pads, FMLFileResourcePack:Dynamic Lights, FMLFileResourcePack:Dynamic Lights Burning Entity Module, FMLFileResourcePack:Dynamic Lights Creeper Module, FMLFileResourcePack:Dynamic Lights EntityItem Module, FMLFileResourcePack:Dynamic Lights Entity Light Module, FMLFileResourcePack:Dynamic Lights Mob Equipment Light Module, FMLFileResourcePack:Dynamic Lights Fiery Arrows Light Module, FMLFileResourcePack:Dynamic Lights Flood Light, FMLFileResourcePack:Dynamic Lights OtherPlayers Light Module, FMLFileResourcePack:Dynamic Lights Player Light Module, FMLFileResourcePack:Extra Rails, FMLFileResourcePack:Flowercraft, FMLFileResourcePack:Forestry, FMLFileResourcePack:Forge Endertech, FMLFileResourcePack:Just Enough Items, FMLFileResourcePack:Just JetPacks, FMLFileResourcePack:Just Backpacks, FMLFileResourcePack:Just Enough Resources, FMLFileResourcePack:LimeLib, FMLFileResourcePack:Neat, FMLFileResourcePack:Railcraft, FMLFileResourcePack:RFTools, FMLFileResourcePack:ShadowMC, FMLFileResourcePack:Simply Jetpacks 2, FMLFileResourcePack:Steve's Carts 2, FMLFileResourcePack:ViesCraft
+[09:05:05] [Client thread/WARN]: File minecraft:sounds/gearswitch.ogg does not exist, cannot add it to event stevescarts:gearswitch
+[09:05:05] [Client thread/WARN]: File minecraft:sounds/win.ogg does not exist, cannot add it to event stevescarts:win
+[09:05:05] [Client thread/WARN]: File minecraft:sounds/boop1.ogg does not exist, cannot add it to event stevescarts:boop
+[09:05:05] [Client thread/WARN]: File minecraft:sounds/boop2.ogg does not exist, cannot add it to event stevescarts:boop
+[09:05:05] [Client thread/WARN]: File minecraft:sounds/boop3.ogg does not exist, cannot add it to event stevescarts:boop
+[09:05:05] [Client thread/WARN]: File minecraft:sounds/gameover.ogg does not exist, cannot add it to event stevescarts:gameover
+[09:05:05] [Client thread/WARN]: File minecraft:sounds/1lines.ogg does not exist, cannot add it to event stevescarts:1lines
+[09:05:05] [Client thread/WARN]: File minecraft:sounds/2lines.ogg does not exist, cannot add it to event stevescarts:2lines
+[09:05:05] [Client thread/WARN]: File minecraft:sounds/3lines.ogg does not exist, cannot add it to event stevescarts:3lines
+[09:05:05] [Client thread/WARN]: File minecraft:sounds/4lines.ogg does not exist, cannot add it to event stevescarts:4lines
+[09:05:05] [Client thread/WARN]: File minecraft:sounds/highscore.ogg does not exist, cannot add it to event stevescarts:highscore
+[09:05:05] [Client thread/WARN]: File minecraft:sounds/hit.ogg does not exist, cannot add it to event stevescarts:hit
+[09:05:05] [Client thread/WARN]: File minecraft:sounds/click.ogg does not exist, cannot add it to event stevescarts:click
+[09:05:05] [Client thread/WARN]: File minecraft:sounds/blobclick.ogg does not exist, cannot add it to event stevescarts:blobclick
+[09:05:05] [Client thread/WARN]: File minecraft:sounds/flagclick.ogg does not exist, cannot add it to event stevescarts:flagclick
+[09:05:05] [Client thread/WARN]: File minecraft:sounds/goodjob.ogg does not exist, cannot add it to event stevescarts:goodjob
+[09:05:05] [Client thread/INFO]: SoundSystem shutting down...
+[09:05:06] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[09:05:06] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[09:05:06] [Thread-8/INFO]: Initializing LWJGL OpenAL
+[09:05:06] [Thread-8/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[09:05:06] [Thread-8/INFO]: OpenAL initialized.
+[09:05:06] [Sound Library Loader/INFO]: Sound engine started
+[09:05:12] [Client thread/INFO]: Created: 1024x1024 textures-atlas
+[09:05:22] [Client thread/WARN]: Skipping bad option: lastServer:
+[09:05:32] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[09:05:49] [Server thread/INFO]: Starting integrated minecraft server version 1.10.2
+[09:05:49] [Server thread/INFO]: Generating keypair
+[09:05:50] [Server thread/WARN]: Couldn't find resource table railcraft:chests/village_workshop
+[09:05:51] [Server thread/INFO]: Preparing start region for level 0
+[09:05:52] [Server thread/INFO]: Preparing spawn area: 2%
+[09:05:53] [Server thread/INFO]: Preparing spawn area: 4%
+[09:05:54] [Server thread/INFO]: Preparing spawn area: 7%
+[09:05:56] [Server thread/INFO]: Preparing spawn area: 50%
+[09:05:57] [Server thread/WARN]: Keeping entity MinecartChest that already exists with UUID 49371302-c33f-4b64-9319-335d1c2af2f9
+[09:05:57] [Server thread/INFO]: Preparing spawn area: 54%
+[09:05:59] [Server thread/INFO]: Changing view distance to 32, from 10
+[09:06:03] [Server thread/INFO]: team[local:E:9b54b81e] logged in with entity id 28 at (-35.7213060354067, 4.0, -65.5822723529165)
+[09:06:03] [Server thread/INFO]: team joined the game
+[09:06:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 36976ms behind, skipping 739 tick(s)
+[09:06:40] [Server thread/INFO]: Saving and pausing game...
+[09:06:40] [Server thread/INFO]: Saving chunks for level 'New World te'/Overworld
+[09:06:43] [Server thread/INFO]: Saving chunks for level 'New World te'/Nether
+[09:06:43] [Server thread/INFO]: Saving chunks for level 'New World te'/The End
+[09:06:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4557ms behind, skipping 91 tick(s)
+[09:07:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6830ms behind, skipping 136 tick(s)
+[09:07:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3940ms behind, skipping 78 tick(s)
+[09:07:27] [Client thread/WARN]: Unable to play unknown soundEvent: railcraft:locomotive.steam.whistle
+[09:07:56] [Client thread/INFO]: [CHAT] The cart failed to be placed into the world, this is due to an issue with one or more modules. Please post your log on the issue tracker here: Åò9 https://github.com/modmuss50/SC2/issues
+[09:07:56] [Client thread/INFO]: [CHAT] The cart failed to be placed into the world, this is due to an issue with one or more modules. Please post your log on the issue tracker here: Åò9 https://github.com/modmuss50/SC2/issues
+[09:08:47] [Client thread/INFO]: Stopping!
+[09:08:48] [Client thread/INFO]: SoundSystem shutting down...
+[09:08:48] [Server thread/INFO]: Stopping server
+[09:08:48] [Server thread/INFO]: Saving players
+[09:08:48] [Server thread/INFO]: Saving worlds
+[09:08:48] [Server thread/INFO]: Saving chunks for level 'New World te'/Overworld
+[09:08:48] [Server thread/INFO]: Saving chunks for level 'New World te'/Nether
+[09:08:48] [Server thread/INFO]: Saving chunks for level 'New World te'/The End
+[09:08:50] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[09:08:55] [Client Shutdown Thread/INFO]: Stopping server
+[09:08:55] [Client Shutdown Thread/INFO]: Saving players
+[09:08:55] [Client Shutdown Thread/INFO]: Saving worlds
